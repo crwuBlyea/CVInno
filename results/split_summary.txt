@@ -1,0 +1,18 @@
+split
+train       11073
+test         1385
+test_q75     1385
+test_q50     1385
+val          1383
+
+split     label
+test      0         692
+          1         693
+test_q50  0         692
+          1         693
+test_q75  0         692
+          1         693
+train     0        5530
+          1        5543
+val       0         691
+          1         692

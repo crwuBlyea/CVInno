@@ -1,0 +1,28 @@
+# ===== data: fetched/regenerated locally — never committed =====
+data/raw/
+data/proc/
+data/proc_q75/
+data/proc_q50/
+data/meta.csv
+
+# ===== generated artifacts =====
+results/*.npy
+results/*.joblib
+
+# ===== python =====
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ===== os junk =====
+.DS_Store
+Thumbsdb
+Thumbs.db
+desktop.ini
+
+# ===== editor =====
+.vscode/
+.idea/
