@@ -23,6 +23,10 @@ Thumbsdb
 Thumbs.db
 desktop.ini
 
+
+# ===== models=====
+training/runs/
+
 # ===== editor =====
 .vscode/
 .idea/
